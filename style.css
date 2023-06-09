@@ -1,0 +1,80 @@
+html {
+    background-image: url(../images/giftbox.jpg);
+    background-size: cover;
+    scroll-behavior: smooth;
+    background-repeat: no-repeat;
+}
+body {
+    text-align: center;
+}
+#container{
+  font-size: 20px; 
+  
+}
+h1{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight:900;
+  height: 120px;
+  color:yellow;
+  text-shadow: 2px 3px 6px rgba(0,0,0, 5);
+  font-size:75px;
+  letter-spacing:3.5px;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+  font-weight:bold 200;
+  font-size:20px;
+}
+h3{
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight:700 bold;
+  letter-spacing: 2px;
+}
+p{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+p small {
+  font-size: bold 13px;
+}
+.pink{
+  color:hotpink;
+}
+.green{
+  color:limegreen;
+}
+.yellow{
+  color: yellow;
+  background-color:black;
+  
+}
+.blue{
+  color:lightblue;
+  font-style:italic;
+}
+.orange{
+  color:orange;
+}
+.red{
+  color:red;
+}
+.verse1, .verse2, .chorus{
+  letter-spacing: 2px;
+  color:black;
+}
+.chorus{
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 2px;
+  font-weight:bold 300;
+  font-size:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
